@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/var/www/html/admin/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_info_outline_24dp_selected.png",
+        "source": "/var/www/html/admin/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.1.1/res/drawable-ldpi-v4/ic_info_outline_24dp_selected.png"
+    },
+    {
+        "merged": "/var/www/html/admin/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_info_outline_24dp.png",
+        "source": "/var/www/html/admin/android/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/4.1.1/res/drawable-ldpi-v4/ic_info_outline_24dp.png"
+    }
+]

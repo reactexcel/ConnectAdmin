@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "122775740640",
+    "firebase_url": "https://admin-live-4b21a.firebaseio.com",
+    "project_id": "admin-live-4b21a",
+    "storage_bucket": "admin-live-4b21a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122775740640:android:f8e6240b0b56b6e8",
+        "android_client_info": {
+          "package_name": "com.withadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122775740640-7fitll70gj6g7ge8ons7f7mjg7528sh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.withadmin",
+            "certificate_hash": "052dda60050c34c0b99738dcb0ebed0bbea1f628"
+          }
+        },
+        {
+          "client_id": "122775740640-fc0dj55ms3ev44hnv5mauat9bpordqcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLuJYplk5suzFjvDVSKZLvcDSA3NcZ6Yc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122775740640-tu71n3pun9jh58kn9o1ns381ucks8ubu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.withadmin"
+              }
+            },
+            {
+              "client_id": "122775740640-fc0dj55ms3ev44hnv5mauat9bpordqcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
